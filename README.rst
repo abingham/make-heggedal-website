@@ -23,3 +23,5 @@ Deployment
 ==========
 
 When you push to the master branch on github, we deploy it make-heggedal.no.
+
+The site is currently served on netlify.
