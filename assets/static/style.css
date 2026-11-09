@@ -5,7 +5,7 @@ body {
 
 header nav {
     font-family: 'Alfa Slab One', cursive;
-    background-image: url('/images/design.png');
+    background-image: url('../images/design.png');
     background-size: cover;
     background-position-y: top;
     color: white;
